@@ -1,0 +1,22 @@
+﻿Source.obj : error LNK2019: unresolved external symbol Mix_OpenAudio referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_LoadMUS referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol Mix_PlayMusic referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_SetRenderDrawColor referenced in function "void __cdecl Particle_Emitter::draw(struct Particle_Emitter::Particle_Emitter *,struct SDL_Renderer *)" (?draw@Particle_Emitter@@YAXPEAU11@PEAUSDL_Renderer@@@Z)
+Source.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_RenderFillRect referenced in function "void __cdecl Particle_Emitter::draw(struct Particle_Emitter::Particle_Emitter *,struct SDL_Renderer *)" (?draw@Particle_Emitter@@YAXPEAU11@PEAUSDL_Renderer@@@Z)
+Source.obj : error LNK2019: unresolved external symbol SDL_RenderCopyEx referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_GetTicks referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function SDL_main
+Source.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function SDL_main
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+SDL2-2.0.8\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+SDL2-2.0.8\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+SDL2_image-2.0.3\lib\x86\SDL2_image.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+SDL2-2.0.8\lib\x86\SDL2_mixer.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Lelau\source\repos\mapagain\midterm\x64\Debug\midterm.exe : fatal error LNK1120: 17 unresolved externals

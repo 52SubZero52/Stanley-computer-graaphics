@@ -1,0 +1,68 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (mapagain.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\table_file_core.h(27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\table_file_core.h(30): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\table_file_core.h(60): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\table_file_core.h(92): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\table_file_core.h(106): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(149): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(234): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(234): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(336): warning C4018: '<': signed/unsigned mismatch
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(340): warning C4018: '<': signed/unsigned mismatch
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(428): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(431): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(432): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(434): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(435): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(436): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(438): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(439): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(440): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(441): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(442): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(443): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(488): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(588): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(604): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(620): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(627): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(628): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(629): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(630): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(631): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(643): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(644): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(645): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(646): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(649): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(653): warning C4305: '*=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(654): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(659): warning C4018: '>=': signed/unsigned mismatch
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(742): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(743): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(744): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(745): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(761): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(762): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(780): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(781): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(782): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(783): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(799): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(800): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(801): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(802): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(818): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(819): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(820): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(821): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(984): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\mapagain\midterm\mapagain\source.cpp(984): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  mapagain.vcxproj -> C:\Users\Lelau\source\repos\mapagain\midterm\Debug\midterm.exe

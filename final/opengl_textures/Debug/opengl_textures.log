@@ -1,0 +1,17 @@
+﻿  main_opengl_texture.cpp
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(85): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(109): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(117): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(118): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(119): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(346): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+c:\users\lelau\desktop\other content\stanley-computer-graaphics\final\opengl_textures\main_opengl_texture.cpp(347): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+  opengl_textures.vcxproj -> C:\Users\Lelau\Desktop\other content\Stanley-computer-graaphics\final\Debug\opengl_textures.exe

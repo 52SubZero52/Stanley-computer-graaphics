@@ -1,0 +1,31 @@
+﻿  bbrick Break.cpp
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(103): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(104): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(119): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(120): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(134): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(135): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(145): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(146): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(238): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(238): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(245): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(245): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(249): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(249): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(261): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(261): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(275): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(275): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(279): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(279): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(291): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lelau\source\repos\project3\project3\bbrick break.cpp(291): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\Lelau\source\repos\Project3\Debug\Project3.exe

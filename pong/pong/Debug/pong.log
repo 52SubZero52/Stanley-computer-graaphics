@@ -1,0 +1,30 @@
+﻿  Source.cpp
+c:\users\lelau\source\repos\pong\pong\source.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(115): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(116): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(122): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(127): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(154): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(159): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(243): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(244): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(245): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(246): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(257): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(258): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(259): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(260): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(271): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(272): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(273): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(274): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(285): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(286): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(287): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lelau\source\repos\pong\pong\source.cpp(288): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  pong.vcxproj -> C:\Users\Lelau\source\repos\pong\Debug\pong.exe
